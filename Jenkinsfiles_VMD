@@ -5,7 +5,7 @@ pipeline {
         NGINX_CREDENTIALS_ID = 'nginx'
         NGINX_SERVER = '13.233.120.14'
         SSH_USER = 'ec2-user'
-        NGINX_SERVER_PATH = '/usr/share/nginx/html/'
+        
     }
 
     stages {
