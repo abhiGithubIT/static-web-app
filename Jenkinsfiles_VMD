@@ -3,7 +3,7 @@ pipeline {
      environment {
         Git_CREDENTIALS_ID = 'git-credentials'
         NGINX_CREDENTIALS_ID = 'nginx'
-        NGINX_SERVER = '13.233.120.14'
+        NGINX_SERVER = '13.127.200.176'
         SSH_USER = 'ec2-user'
         
     }
